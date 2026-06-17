@@ -1,0 +1,96 @@
+What is the extension of a C++ source file?
+.cpp
+.txt
+.html
+.exe
+A
+Who developed C++?
+Dennis Ritchie
+Bjarne Stroustrup
+James Gosling
+Guido van Rossum
+B
+Which symbol is used to end a statement in C++?
+:
+;
+,
+.
+B
+Which header file is used for input and output operations?
+<stdio.h>
+<iostream>
+<string>
+<math.h>
+B
+Which operator is used for scope resolution in C++?
+.
+::
+->
+#
+B
+Which keyword is used to define a class in C++?
+struct
+object
+class
+public
+C
+Which of the following is an example of an object?
+Car
+int
+float
+class
+A
+Which function is the entry point of a C++ program?
+start()
+run()
+main()
+begin()
+C
+Which keyword is used to inherit a class in C++?
+inherits
+extends
+:
+public
+D
+What is function overloading?
+Using multiple functions with the same name but different parameters
+Using one function inside another
+Calling a function recursively
+Using a function without parameters
+A
+Which concept hides the implementation details from the user?
+Inheritance
+Polymorphism
+Encapsulation
+Recursion
+C
+Which constructor has no parameters?
+Parameterized constructor
+Default constructor
+Copy constructor
+Friend constructor
+B
+Which keyword is used to create dynamic memory in C++?
+malloc
+calloc
+new
+alloc
+C
+Which operator is used to access members using an object?
+->
+::
+.
+&
+C
+Which keyword is used to handle exceptions?
+throw
+try
+catch
+All of the above
+D
+What is the full form of OOPS?
+Ojbect oriented programming language
+Object oriented play language
+oriented object programming language
+object oriented programming lane
+A
