@@ -366,7 +366,7 @@ sudo apt install g++
 Replace the placeholder with your actual GitHub repository URL.
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/shabeena1703/Smart-Exam-Management-System.git
 ```
 
 ### Step 3: Navigate to the Project Folder
