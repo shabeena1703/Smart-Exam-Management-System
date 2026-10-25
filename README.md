@@ -1,12 +1,5 @@
 # 🎓 Online Examination System | C++
 
-<p align="center">
-  <b>A Menu-Driven MCQ Examination Application Using C++ and File Handling</b>
-</p>
-
-<p align="center">
-  👨‍💼 Admin Management &nbsp; | &nbsp; 👩‍🎓 Student Examination &nbsp; | &nbsp; 📊 Automatic Evaluation
-</p>
 
 ---
 
@@ -424,7 +417,6 @@ Enter the choice
 7. View the result.
 8. Log in as admin to view all recorded student results.
 
-> **Important:** Keep the text files in the application's working directory. The application stores passwords as plain text, so this project should be treated as an educational demonstration rather than a secure production system.
 
 ## 🖥️ Sample Output
 
@@ -525,7 +517,6 @@ The demonstrated execution includes:
 
 ## ⚠️ Limitations
 
-- The Modify Question function is declared but not implemented.
 - Passwords are stored as plain text.
 - Duplicate student IDs and admin usernames are not prevented.
 - Student names are read as single words.
@@ -565,9 +556,8 @@ Through this project, I gained practical experience in:
 
 B.Tech – Electronics and Communication Engineering
 
-- 🔗 **LinkedIn:** [Add your LinkedIn profile URL](YOUR_LINKEDIN_URL)
-- 📧 **Gmail:** [Add your Gmail address](YOUR_GMAIL_ADDRESS)
-
+- 🔗 **LinkedIn:** (https://www.linkedin.com/in/shaik-shabeena-36a7b9332)
+- 📧 **Gmail:** (mailto:skshabeena33@gmail.com)
 ---
 
 
