@@ -1,4 +1,4 @@
-# 🎓 Online Examination System | C++
+# 🎓 Smart Exam Management System | C++
 
 
 ---
@@ -6,7 +6,7 @@
 
 ## 📖 Project Overview
 
-The **Online Examination System** is a console-based application developed using **C++ and Object-Oriented Programming (OOP)** to conduct multiple-choice examinations and manage student results.
+The **Smart Exam Management System** is a console-based application developed using **C++ and Object-Oriented Programming (OOP)** to conduct multiple-choice examinations and manage student results.
 
 The application provides two separate modules: **Admin** and **Student**.
 
@@ -311,7 +311,7 @@ The application uses text files for storing and retrieving information instead o
 ## 📂 Project Structure
 
 ```text
-Online-Examination-System/
+Smart-Exam_Management-System/
 │
 ├── main.cpp
 │   └── Main menu and application entry point
@@ -372,7 +372,7 @@ git clone <your-repository-url>
 ### Step 3: Navigate to the Project Folder
 
 ```bash
-cd Online-Examination-System
+cd Smart-Exam-Management-System
 ```
 
 ### Step 4: Compile the Source Files
